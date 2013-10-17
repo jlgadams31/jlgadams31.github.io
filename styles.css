@@ -43,7 +43,7 @@ h2{
 }
 
 .container{
-    width:940px;
+    /*width:940px;*/
     background:pink;
     margin:0 auto;
 }
